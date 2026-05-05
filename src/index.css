@@ -1,0 +1,24 @@
+.console {
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+/* .sqrbtn {
+  height: 50px;
+  width: 50px;
+} */
+
+.winner {
+  height: 50px;
+  width: 50px;
+  background-color: green;
+}
+
+.notwinner {
+  height: 50px;
+  width: 50px;
+  background-color: khaki;
+}
